@@ -1,0 +1,14 @@
+/references/
+/.work/
+/outputs/
+/dist/
+/private/
+.DS_Store
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Rproj.user/
+.venv/
+.env
+
